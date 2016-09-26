@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color:#000;
+		}
+
+        .container img {
+            animation-duration: 4.5s;
+            animation-delay: 1.5s;
+            animation-name: changeOpacity;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+        }
+		p{
+			color:#FFF;
+	    text-align:left;
+		padding:0%;
+		}
+		h1{
+			text-align:center;
+			color:#FFF;
+			}
+
+        @keyframes changeOpacity {
+            0% {
+                opacity: 1;
+            }
+
+            20% {
+                opacity: 1;
+            }
+
+            65% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }

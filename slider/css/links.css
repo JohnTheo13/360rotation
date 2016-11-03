@@ -1,21 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
-.jssora11l { left:0%!important; background-position: -17px -70px!important; }
-                .jssora11r { background-position: -135px -70px!important; right:0% !important; }
-                .jssora11l:hover { background-position: -218px -70px !important;}
-                .jssora11r:hover { background-position: -338px -70px!important; }
-                .jssora11l.jssora11ldn { background-position: -419px -70px!important; }
-                .jssora11r.jssora11rdn { background-position: -537px -70px!important; }
- .jssora11l, .jssora11r {
-                    display: block;
-                    position: absolute;
-                    /* size of arrow element */
-                    width: 45px !important;
-                    height: 65px !important;
-                    cursor: pointer;	
-                }
-				body{
-					background-color:#000;
+.jssora11l { left: 0 % !important;background - position: -17 px - 70 px!important; }
+.jssora11r { background - position: -135 px - 70 px!important;
+    right: 0 % !important; }
+.jssora11l: hover { background - position: -218 px - 70 px!important; }
+    .jssora11r: hover { background - position: -338 px - 70 px!important; }
+    .jssora11l.jssora11ldn { background - position: -419 px - 70 px!important; }
+    .jssora11r.jssora11rdn { background - position: -537 px - 70 px!important; }
+    .jssora11l, .jssora11r {
+        display: block;
+        position: absolute;
+        /* size of arrow element */
+        width: 45 px!important;
+        height: 65 px!important;
+        cursor: pointer;
+    }
+body {
+    background - color: #000;
 					}
 				
 				img{
@@ -48,201 +49,156 @@
 						padding-left:45px;
 						font-family:Helvetica;
 						font-size:44px;
-						color: #FFF;
-					}
-						        .first{
-            width: 100%;
-            height:66.25%;
-            background: url('../Optimised/01_before.jpg')  center center no-repeat transparent;
-  -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
+						color: # FFF;
+}
+.first {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/01_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
 
-			        .third{
-            width: 100%;
-            height:66.25%;
-           background: url('../Optimised/03_before.jpg') center center  no-repeat transparent;
-			background-size:100% 98%;
-			  -webkit-background-size: 100% 98%; /* For WebKit*/
-    -moz-background-size: 100% 98%;    /* Mozilla*/
-    -o-background-size: 100% 98%;      /* Opera*/	
-					}
+.third {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/03_before.jpg') center center no - repeat transparent;
+    background - size: 100 % 98 % ; - webkit - background - size: 100 % 98 % ; /* For WebKit*/ - moz - background - size: 100 % 98 % ; /* Mozilla*/ - o - background - size: 100 % 98 % ; /* Opera*/
+}
 
-			        .fourth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/04_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size:  100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .fifth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/05_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size:100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .seventh{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/07_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size:100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .eighth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/08_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .nineth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/09_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .tenth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/10_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .sixth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/06_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .sixteen{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/16_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .seveteenth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/17_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .eightteenth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/18_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .nineteenth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/19_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .twentth{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/20_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-			        .twentyfirst{
-            width: 100%;
-            height: 66.25%;
-            background: url('../Optimised/21_before.jpg')  center center no-repeat transparent;
-			    -webkit-background-size: 100% 99%; /* For WebKit*/
-    -moz-background-size: 100% 99%;    /* Mozilla*/
-    -o-background-size: 100% 99%;      /* Opera*/
-    background-size: 100% 99%;         /* Generic*/
-        }
-		
+.fourth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/04_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.fifth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/05_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.seventh {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/07_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.eighth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/08_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.nineth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/09_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.tenth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/10_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.sixth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/06_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.sixteen {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/16_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.seveteenth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/17_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.eightteenth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/18_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.nineteenth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/19_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.twentth {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/20_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
+.twentyfirst {
+    width: 100 % ;
+    height: 66.25 % ;
+    background: url('../Optimised/21_before.jpg') center center no - repeat transparent; - webkit - background - size: 100 % 99 % ; /* For WebKit*/ - moz - background - size: 100 % 99 % ; /* Mozilla*/ - o - background - size: 100 % 99 % ; /* Opera*/
+    background - size: 100 % 99 % ; /* Generic*/
+}
 
-			/*		.sixteen img  {          
+
+/*		.sixteen img  {          
 					animation-duration: 4.5s;
             animation-delay: 1.5s;
             animation-name: changeOpacity;
             animation-iteration-count: infinite;
             animation-direction: alternate;}*/
-					        @-webkit-keyframes changeOpacity {
-            0% {
-                opacity: 1;
-            }
+@ - webkit - keyframes changeOpacity {
+    0 % {
+        opacity: 1;
+    }
 
-            20% {
-                opacity: 1;
-            }
+    20 % {
+        opacity: 1;
+    }
 
-            65% {
-                opacity: 0;
-            }
+    65 % {
+        opacity: 0;
+    }
 
-            100% {
-                opacity: 0;
-            }
-        }
-							        @-moz-keyframes changeOpacity {
-            0% {
-                opacity: 1;
-            }
+    100 % {
+        opacity: 0;
+    }
+}
+@ - moz - keyframes changeOpacity {
+    0 % {
+        opacity: 1;
+    }
 
-            20% {
-                opacity: 1;
-            }
+    20 % {
+        opacity: 1;
+    }
 
-            65% {
-                opacity: 0;
-            }
+    65 % {
+        opacity: 0;
+    }
 
-            100% {
-                opacity: 0;
-            }
-        }
-							        @-o-keyframes changeOpacity {
-            0% {
-                opacity: 1;
-            }
+    100 % {
+        opacity: 0;
+    }
+}
+@ - o - keyframes changeOpacity {
+    0 % {
+        opacity: 1;
+    }
 
-            20% {
-                opacity: 1;
-            }
+    20 % {
+        opacity: 1;
+    }
 
-            65% {
-                opacity: 0;
-            }
+    65 % {
+        opacity: 0;
+    }
 
-            100% {
-                opacity: 0;
-            }
-        }
+    100 % {
+        opacity: 0;
+    }
+}

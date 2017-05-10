@@ -228,7 +228,6 @@ Swipe.prototype = {
             clearTimeout(this.interval);
 
              var x=e.touches[0].screenX;
-            console.log(this.index,x,this.lastX);
         if(Math.abs(this.lastX-x)>18){
             if(this.index==0 && this.lastX <x ){
                 this.index=this.length-1;

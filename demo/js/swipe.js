@@ -281,7 +281,6 @@ Swipe.prototype = {
 
         if (!this.isScrolling) {
             var x=e.touches[0].screenX;
-            console.log(this.index,x,this.lastX);
 
             if(this.index==0 && this.lastX <x){
                 this.index=this.length-1;

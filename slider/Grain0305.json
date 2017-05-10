@@ -1,0 +1,1028 @@
+{
+    "layer": "$layerName$",
+    "errorCode": 0,
+    "errorString": "OK",
+    "hotspots": [
+        {
+            "id": "line15",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.015.l3d",
+                "size": 0.28632269613444805
+            },
+            "transform": {
+                "translate": {
+                    "x": 1.005764,
+                    "y": 0.861325,
+                    "z": 2.105395
+                },
+                "rotate": {
+                    "angle": 26.068412,
+                    "axis": {
+                        "x": 0.095545,
+                        "y": 0.470496,
+                        "z": 0.877214
+                    }
+                },
+                "scale": 0.819132
+            }
+        },
+        {
+            "id": "line14",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.014.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.690471,
+                    "y": 0.392442,
+                    "z": 5.72491
+                },
+                "rotate": {
+                    "angle": 33.265941,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                }
+            }
+        },
+        {
+            "id": "line13",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.013.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.869061,
+                    "y": 1.103953,
+                    "z": 1.933338
+                },
+                "rotate": {
+                    "angle": 115.491532,
+                    "axis": {
+                        "x": 0.140781,
+                        "y": -0.215567,
+                        "z": 0.966288
+                    }
+                }
+            }
+        },
+        {
+            "id": "line12",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.012.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.912868,
+                    "y": -0.408448,
+                    "z": 5.053299
+                },
+                "rotate": {
+                    "angle": 15.534514,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.000005
+                    }
+                }
+            }
+        },
+        {
+            "id": "line11",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.010.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.564978,
+                    "y": 1.12102,
+                    "z": 4.258746
+                },
+                "rotate": {
+                    "angle": 136.653507,
+                    "axis": {
+                        "x": 0.102552,
+                        "y": -0.083381,
+                        "z": 0.991227
+                    }
+                }
+            }
+        },
+        {
+            "id": "line10",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.009.l3d",
+                "size": 0.34954397690792877
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.681961,
+                    "y": 1.066389,
+                    "z": 2.856857
+                },
+                "rotate": {
+                    "angle": 78.211601,
+                    "axis": {
+                        "x": 0.193714,
+                        "y": -0.152597,
+                        "z": 0.969118
+                    }
+                }
+            }
+        },
+        {
+            "id": "line09",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.008.l3d",
+                "size": 0.34954393841326237
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.178035,
+                    "y": 1.029033,
+                    "z": 5.138436
+                },
+                "rotate": {
+                    "angle": 72.9723,
+                    "axis": {
+                        "x": 0.151439,
+                        "y": -0.110022,
+                        "z": 0.982325
+                    }
+                }
+            }
+        },
+        {
+            "id": "line08",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.007.l3d",
+                "size": 0.3583763334900141
+            },
+            "transform": {
+                "translate": {
+                    "x": 1.391501,
+                    "y": -0.343927,
+                    "z": 1.524056
+                },
+                "rotate": {
+                    "angle": 15.811586,
+                    "axis": {
+                        "x": -0.185792,
+                        "y": -0.025342,
+                        "z": -0.982263
+                    }
+                },
+                "scale": 1.025268
+            }
+        },
+        {
+            "id": "line07",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.006.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.768271,
+                    "y": -1.061732,
+                    "z": -1.581272
+                },
+                "rotate": {
+                    "angle": 66.205201,
+                    "axis": {
+                        "x": 0.24076,
+                        "y": 0.150505,
+                        "z": -0.958845
+                    }
+                }
+            }
+        },
+        {
+            "id": "line06",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.005.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.065936,
+                    "y": 1.33732,
+                    "z": -1.234791
+                },
+                "rotate": {
+                    "angle": 90.09861,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                }
+            }
+        },
+        {
+            "id": "line05",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.004.l3d",
+                "size": 0.3334901463240385
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.513278,
+                    "y": -0.157024,
+                    "z": 6.856324
+                },
+                "rotate": {
+                    "angle": 20.281297,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.000001
+                    }
+                },
+                "scale": 0.954072
+            }
+        },
+        {
+            "id": "line04",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.l3d",
+                "size": 0.44405423539380234
+            },
+            "transform": {
+                "translate": {
+                    "x": 1.001257,
+                    "y": -0.929911,
+                    "z": 2.108322
+                },
+                "rotate": {
+                    "angle": 97.227675,
+                    "axis": {
+                        "x": -0.167728,
+                        "y": -0.000249,
+                        "z": -0.985833
+                    }
+                },
+                "scale": 1.270382
+            }
+        },
+        {
+            "id": "line03",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.002.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": 1.06875,
+                    "y": -0.390987,
+                    "z": 3.740613
+                },
+                "rotate": {
+                    "angle": 15.534514,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.000005
+                    }
+                }
+            }
+        },
+        {
+            "id": "line02",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.001.l3d",
+                "size": 0.34954397814969224
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.047389,
+                    "y": 0.697561,
+                    "z": 6.72852
+                },
+                "rotate": {
+                    "angle": 90.182157,
+                    "axis": {
+                        "x": 0.141261,
+                        "y": -0.069617,
+                        "z": 0.987522
+                    }
+                }
+            }
+        },
+        {
+            "id": "line01",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_L3D.l3d",
+                "size": 0.28632267595579225
+            },
+            "transform": {
+                "translate": {
+                    "x": 1.354302,
+                    "y": 0.055541,
+                    "z": -2.415388
+                },
+                "rotate": {
+                    "angle": 1.426534,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -0.999895
+                    }
+                },
+                "scale": 0.819132
+            }
+        },
+        {
+            "id": "11",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.014.l3d",
+                "size": 0.9092188477516174
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.067331,
+                    "y": -0.240094,
+                    "z": 6.983328
+                },
+                "rotate": {
+                    "angle": 144.403969,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_9$file$"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.013.l3d",
+                "size": 0.8945982257525126
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.295999,
+                    "y": -0.084731,
+                    "z": 4.352962
+                },
+                "rotate": {
+                    "angle": 122.905907,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_15$file$"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.012.l3d",
+                "size": 0.7876694798469543
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.251735,
+                    "y": -0.17027,
+                    "z": 6.985114
+                },
+                "rotate": {
+                    "angle": 124.95633,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 0.55
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_14$file$"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.011.l3d",
+                "size": 0.8287910223007202
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.026327,
+                    "y": 0.153811,
+                    "z": 5.00064
+                },
+                "rotate": {
+                    "angle": 138.406707,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_13$file$"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.010.l3d",
+                "size": 0.8394959717988968
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.295389,
+                    "y": -0.029854,
+                    "z": 6.343703
+                },
+                "rotate": {
+                    "angle": 78.769887,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.149697,
+                    "y": 1.149697,
+                    "z": 0.766465
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_12$file$"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.009.l3d",
+                "size": 0.7790702978769938
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.041184,
+                    "y": 0.125331,
+                    "z": 5.469919
+                },
+                "rotate": {
+                    "angle": 156.460933,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_11$file$"
+                }
+            ]
+        },
+        {
+            "id": "06",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.008.l3d",
+                "size": 0.8876597285270691
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.0,
+                    "y": -0.04275,
+                    "z": 0.539567
+                },
+                "rotate": {
+                    "angle": 178.523755,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_5$file$"
+                }
+            ]
+        },
+        {
+            "id": "07",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.007.l3d",
+                "size": 0.9375777691602707
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.092884,
+                    "y": 0.210537,
+                    "z": -0.880859
+                },
+                "rotate": {
+                    "angle": 32.912103,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.276542,
+                    "y": 1.276542,
+                    "z": 0.468065
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_6$file$"
+                }
+            ]
+        },
+        {
+            "id": "08",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.006.l3d",
+                "size": 0.7875961611668268
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.339715,
+                    "y": 0.0,
+                    "z": 3.850303
+                },
+                "rotate": {
+                    "angle": 78.154009,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_7$file$"
+                }
+            ]
+        },
+        {
+            "id": "09",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.000.l3d",
+                "size": 0.859077567855517
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.004349,
+                    "y": -0.278826,
+                    "z": 7.502944
+                },
+                "rotate": {
+                    "angle": 167.645477,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 1.5,
+                    "y": 1.5,
+                    "z": 1.0
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_10$file$"
+                }
+            ]
+        },
+        {
+            "id": "05",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.005.l3d",
+                "size": 0.8473861962556839
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.79366,
+                    "y": -0.000121,
+                    "z": 8.376925
+                },
+                "rotate": {
+                    "angle": 77.224701,
+                    "axis": {
+                        "x": -0.000421,
+                        "y": 0.001853,
+                        "z": 0.999998
+                    }
+                },
+                "scale": {
+                    "x": 1.385383,
+                    "y": 1.385383,
+                    "z": 0.923589
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_4$file$"
+                }
+            ]
+        },
+        {
+            "id": "04",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.004.l3d",
+                "size": 0.850347712635994
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.000883,
+                    "y": -0.081676,
+                    "z": 3.516982
+                },
+                "rotate": {
+                    "angle": 25.256744,
+                    "axis": {
+                        "x": -0.004641,
+                        "y": 0.002809,
+                        "z": 0.999986
+                    }
+                },
+                "scale": {
+                    "x": 1.164559,
+                    "y": 1.164559,
+                    "z": 0.776372
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_3$file$"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.003.l3d",
+                "size": 0.8669564326604208
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.195789,
+                    "y": 0.0,
+                    "z": 4.669465
+                },
+                "rotate": {
+                    "angle": 77.401056,
+                    "axis": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "scale": {
+                    "x": 0.989586,
+                    "y": 0.989586,
+                    "z": 0.362848
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_2$file$"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.002.l3d",
+                "size": 0.7973932723204294
+            },
+            "transform": {
+                "translate": {
+                    "x": -0.004173,
+                    "y": -0.479079,
+                    "z": 8.032396
+                },
+                "rotate": {
+                    "angle": 177.137637,
+                    "axis": {
+                        "x": -0.001162,
+                        "y": -0.000239,
+                        "z": -0.999999
+                    }
+                },
+                "scale": {
+                    "x": 1.092037,
+                    "y": 1.092037,
+                    "z": 0.728025
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_8$file$"
+                }
+            ]
+        },
+        {
+            "id": "01",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_Cylinder.001.l3d",
+                "size": 0.8093419919411341
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.001648,
+                    "y": -0.000105,
+                    "z": -1.020237
+                },
+                "rotate": {
+                    "angle": 91.273607,
+                    "axis": {
+                        "x": 0.00131,
+                        "y": 0.001017,
+                        "z": 0.999999
+                    }
+                },
+                "scale": {
+                    "x": 1.108401,
+                    "y": 1.108401,
+                    "z": 0.738934
+                }
+            },
+            "actions": [
+                {
+                    "activityType": 3,
+                    "contentType": "text\/html",
+                    "label": "View detailed image",
+                    "method": "GET",
+                    "uri": "http://$myServer$/$myPath$/link/slider/GrainImage_1$file$"
+                }
+            ]
+        },
+        {
+            "id": "sculpture-08",
+            "anchor": {
+                "referenceImage": "image"
+            },
+            "object": {
+                "contentType": "model/vnd.layar.l3d",
+                "url": "http://$myServer$/$myPath$/GoR/Grain0305_files/msh_sculpture-08.l3d",
+                "size": 5.776223500569661
+            },
+            "transform": {
+                "translate": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -3.999999
+                },
+                "rotate": {
+                    "angle": 100.288596,
+                    "axis": {
+                        "x": 0.834817,
+                        "y": -0.389282,
+                        "z": -0.389282
+                    }
+                }
+            }
+        }
+    ]
+}

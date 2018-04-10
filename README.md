@@ -8,4 +8,4 @@ You can swipe the object to make it turn and zoom in to reveal hidden buttons wh
 
 ### Demo 
 
-<img src="https://ksulourgeio.gr/TheoJohn/data/GrainOfRiseDemo.gif" width="400" height="600" />
+<img src="https://ksulourgeio.gr/TheoJohn/data/GrainOfRiseDemo.gif" width="270" height="450" title="Grain of Rise demo" />
